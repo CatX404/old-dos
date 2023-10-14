@@ -1,0 +1,93 @@
+body{
+    background-image: url("https://4kwallpapers.com/images/walls/thumbs_3t/5592.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.TITLE{
+    display: flex;
+    justify-content: center;
+    width: 50vh;
+    text-align: center;
+    flex-direction: column;
+    background: linear-gradient(180deg, #030303 0%, rgba(0, 0, 0, 0.25) 100%);;
+    border-radius: 40px;
+    color:rgb(255, 255, 255);
+    margin: 10px;
+    border: 5px solid white;
+}
+.teh{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.title_text_1{
+    font-size: 70px;
+}
+.main_text1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    background: linear-gradient(180deg, #030303 0%, rgba(0, 0, 0, 0.25) 100%);;
+    border-radius: 40px;
+    margin: 10px;
+    padding: 10px;
+    width: 70vh;
+    color: white;
+    border: 5px solid white;
+}
+h3{
+    font-size: 20px;
+}
+.gg{
+    height: 40%;
+    width: 80%;
+  }
+.alia{
+    font-size: 3vw;
+    text-decoration: none;
+    padding: 1% 5%;
+    background-color: brown;
+    border-radius: 30px;
+    color: rgb(232, 232, 232);
+  }
+  .divEx1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+  }
+.objects{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.clients2{
+    margin: 10px;
+    border: 5px solid white;
+    border-radius: 40px;
+    background: linear-gradient(180deg, #000 0%, #5F5F5F 100%);
+    width: 70%;
+    height: 500px;
+    padding: 20px;
+}
+a{
+    color: rgb(164, 164, 164);
+    text-decoration: none;
+    font-size: 30px;
+}
+a:hover{
+    color: rgb(116, 116, 116);
+}
+.clients_text{
+}
+.AutorText1{
+    color: gray;
+}
+.AutorText{
+    color: white;
+    font-size: 20px;
+}
